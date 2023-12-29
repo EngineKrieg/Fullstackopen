@@ -1,0 +1,15 @@
+.add-message-pos{
+    background-color: rgb(148, 231, 153);
+    color: rgb(0, 43, 11);
+    font-size: 20px;
+    border: solid black 2px;
+    padding: 10px;
+}
+
+.add-message-neg{
+    background-color: rgb(255, 151, 148);
+    color: rgb(123, 0, 0);
+    font-size: 20px;
+    border: solid black 2px;
+    padding: 10px;
+}
